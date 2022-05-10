@@ -1,0 +1,6 @@
+Kapolcs Martin;történelem;10
+Farkas Blanka;matematika;6
+Szőke István;földrajz;4
+Dudás Regina;történelem;3
+Kapolcs Zsolt;irodalom;5
+Varga Ottó;informatika;2

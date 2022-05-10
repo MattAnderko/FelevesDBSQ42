@@ -1,0 +1,5 @@
+történelem;projector
+matematika
+informatika;computers
+irodalom
+földrajz
